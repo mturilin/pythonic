@@ -1,5 +1,7 @@
 name: pythonic
 description: collection of Python-inspired functions to use in Dart
+author: Mikhail Turilin <mikhail@turilin.com>
+homepage: https://github.com/mturilin/pythonic
 version: 0.0.1
 dependencies:
 dev_dependencies:
